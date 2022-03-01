@@ -1,5 +1,5 @@
-## Journey so far
-I received B.E. in ECE from Gujarat University followed by MTech in ICT and PhD from DAIICT. During my PhD, I have explored some aspects of curve reconstruction in Riemannian manifolds. I joined IIIT Vadodara as an Assistant Professor in July 2013. 
+## Short Bio
+I received B.E. in ECE (2003) from Gujarat University followed by MTech in ICT (2005) and PhD (2011) from DAIICT. During my PhD, I have explored some aspects of curve reconstruction in Riemannian manifolds. I joined IIIT Vadodara as an Assistant Professor in July 2013. 
 
 ## Interests
 - Signal Processing, AI/ ML
@@ -12,7 +12,17 @@ I received B.E. in ECE from Gujarat University followed by MTech in ICT and PhD 
 3. HPC laboratory at IIIT Vadodara. The laboratory has GUJCOST sponsored Paramshavak (Sanctioned in 2019 and Commissioned in Jan 2020). [Link](https://sites.google.com/iiitvadodara.ac.in/hpc/paramshavak)
 
 ### Project Openings
-1. Project Associate [Link](www.iiitvadodara.ac.in)
+**Paid**
+1. Project Associate - Safe Ship Navigation (Software Development) [Link](www.iiitvadodara.ac.in)
+**Unpaid**
+1. Peer Assessment Platform as an Assessment and Assistive Learning Tool (Back/Front End developers, UG Students)
+2. Global Weather Forceast (Deep Learning, UG Students)
+3. Clifford Algebra for Computer Graphics (UG Students)
+4. Discrete Differential Geometry (UG Students)
+5. Development of 3D Mesh Processing addons in Blender (UG Students)
+6. Analysis and Automated Cataloguing of Indian Classical Music (UG Students)
+7. Study of Lattice Codes and Intersting Lattice Problems (UG Students)
+8. Quantum Probability and Applications in Counting and Decision Making (UG Students)
 
 ## Continuing Education Program
 1. Music, Mathematics and Machines (To be offered in Summer 2022) [Link](https://docs.google.com/document/d/1YrRtV3XS5JHCwIW72iv9hDL5vbqJ7OOZwMZY8uneukU/edit?usp=sharing)
@@ -29,10 +39,10 @@ I received B.E. in ECE from Gujarat University followed by MTech in ICT and PhD 
 - Training programs (at Mumbai and Jamshedpur) on Data Analytics as part of consultancy for TATA Power in 2019.
 
 ## Students
-#### Doctoral
+**Doctoral**
 1. Ashish Kumar Patel, Distributed Representation for Storage and Learning (2017-cont. IIITV)
 2. Prashant Domadia, Vector Graph Representation for 3D Meshes (Degree Awarded 2021 DAIICT), @ ApparelGenius [Link](https://www.apparelgenius.io/)
-#### Masters'
+**Masters**
 1. Prashant Dhameja, Information Lattice Learning (2021-cont.)
 2. Priya Sharma, Weather Forecast using Deep CNN (2020-21)
 3. Jaya Pathak, Markov Logic Network for Metaphor Set Expansion (2019-20) (Pursuing PhD @ NIT)
@@ -73,6 +83,4 @@ I received B.E. in ECE from Gujarat University followed by MTech in ICT and PhD 
  
 - Sanjeel Parekh and Pratik Shah, “Nyquist Filter Design using POCS Methods: Including Constraints in design”, 14th IEEE International Symposium on Signal Processing and Information Technology, 2014
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Image](src)
