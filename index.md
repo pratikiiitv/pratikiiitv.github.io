@@ -9,7 +9,7 @@ I received B.E. in ECE from Gujarat University followed by MTech in ICT and PhD 
 ## Projects
 1. Safe Ship Navigation, ISRO, Department of Space, Government of India (Feb 2022 - Feb 2024)
 2. Data-driven Weather Forecast using AI/ ML with Indian Metereological Department, Government of India (Oct 2020 - Oct 2021)
-3. HPC laboratory at IIIT Vadodara. The laboratory has GUJCOST sponsored Paramshavak (Sanctioned in 2019 and Commissioned in Jan 2020).
+3. HPC laboratory at IIIT Vadodara. The laboratory has GUJCOST sponsored Paramshavak (Sanctioned in 2019 and Commissioned in Jan 2020). [Link](https://sites.google.com/iiitvadodara.ac.in/hpc/paramshavak)
 
 ### Project Openings
 1. Project Associate [Link](www.iiitvadodara.ac.in)
