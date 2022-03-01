@@ -1,5 +1,5 @@
-## Pratik Shah
-Pratik has worked as JRF and SRF with Naval Science and Technological Laboratory, Vizag on a project titled "Estimation filters for target tracking problems". He received his MTech in ICT and PhD from DAIICT. He has worked as a faculty with department of Electronics and Communication at the LNM Institute of Information Technology for two years. He joined IIIT Vadodara as an Assistant Professor in July 2013. 
+## Journey so far
+I received B.E. in ECE from Gujarat University followed by MTech in ICT and PhD from DAIICT. During my PhD, I have explored some aspects of curve reconstruction in Riemannian manifolds. I joined IIIT Vadodara as an Assistant Professor in July 2013. 
 
 ## Interests
 - Signal Processing, AI/ ML
@@ -18,14 +18,14 @@ Pratik has worked as JRF and SRF with Naval Science and Technological Laboratory
 1. Music, Mathematics and Machines (To be offered in Summer 2022) [Link](https://docs.google.com/document/d/1YrRtV3XS5JHCwIW72iv9hDL5vbqJ7OOZwMZY8uneukU/edit?usp=sharing)
 
 ## Courses
-1. Artificial Intelligence
-2. Information Retrieval
-3. Computer Graphics and Multimedia
-4. Introduction to Robotics
+1. Artificial Intelligence [Win2021](https://docs.google.com/spreadsheets/d/1WTbiZyvn-2dqTuhYvgw6vKkqq1VsWiimmT4mE-8UIOk/edit?usp=sharing)
+2. Information Retrieval [Aut2021](https://drive.google.com/file/d/1mAP74p3Ltr7kTxI8P2mYpPJAv3NO6TB0/view?usp=sharing)
+3. Computer Graphics and Multimedia [Aut2020](https://drive.google.com/file/d/1bsp-3ncPKsxJGMY33QFtEZCbPBzS1y1a/view?usp=sharing)
+4. Introduction to Robotics [Aut2020](https://docs.google.com/document/d/11KUxoEwDoxFYC8uOw0X4sBnnODyLXPZZDOeqm57ced4/edit?usp=sharing)
 
 ## Training Programs/ Workshops
 - Fundamentals of Deep Learning for NVIDIA Deep Learning Institute, as a University Ambassodor (Three workshops since March 2020)
-- ATAL AICTE sponsored FDPs on Data Analytics and Artificial Intelligence (five such FDPs during July 2019 - March 2022)
+- ATAL AICTE sponsored FDPs on Data Analytics and Artificial Intelligence (five such FDPs during July 2019 - March 2022) [AI](https://atal-ai.iiitvadodara.ac.in/) [DA](https://atal-da.iiitvadodara.ac.in/)
 - Training programs (at Mumbai and Jamshedpur) on Data Analytics as part of consultancy for TATA Power in 2019.
 
 ## Students
