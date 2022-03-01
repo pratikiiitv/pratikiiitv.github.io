@@ -1,6 +1,6 @@
 **Short Bio**
 
-I received B.E. in ECE (2003) from Gujarat University followed by MTech in ICT (2005) and PhD (2011) from DAIICT. During my PhD, I have explored some aspects of curve reconstruction in Riemannian manifolds. I joined IIIT Vadodara as an Assistant Professor in July 2013. 
+I received B.E. in ECE (2003) from Gujarat University followed by MTech in ICT (2005) and PhD (2012) from DAIICT. During my PhD, I have explored some aspects of curve reconstruction in Riemannian manifolds. I joined IIIT Vadodara as an Assistant Professor in July 2013. 
 
 ## Interests
 - Signal Processing, AI/ ML
