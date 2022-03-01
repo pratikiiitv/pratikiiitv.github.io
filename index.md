@@ -29,6 +29,21 @@ I received B.E. in ECE from Gujarat University followed by MTech in ICT and PhD 
 - Training programs (at Mumbai and Jamshedpur) on Data Analytics as part of consultancy for TATA Power in 2019.
 
 ## Students
+#### Doctoral
+1. Ashish Kumar Patel, Distributed Representation for Storage and Learning (2017-cont. IIITV)
+2. Prashant Domadia, Vector Graph Representation for 3D Meshes (Degree Awarded 2021 DAIICT), @ ApparelGenius [Link](https://www.apparelgenius.io/)
+#### Masters'
+1. Prashant Dhameja, Information Lattice Learning (2021-cont.)
+2. Priya Sharma, Weather Forecast using Deep CNN (2020-21)
+3. Jaya Pathak, Markov Logic Network for Metaphor Set Expansion (2019-20) (Pursuing PhD @ NIT)
+4. Soumya Bhardwaj, Ride Sharing and Deep Reinforcement Learning (2019-20) (Pursuing PhD @ IIT Guwahati)
+5. Dharmveer Singh Maurya, Multi-elevator Control using RL (2019-20) 
+6. Hemant Agarwal, On Reinforcement Learning Framework for the Recommender Systems (2018-19)
+7. Akansha Tyagi, Human Activity Recognition for Text Like Motion Retrieval (2018-19) (Pursuing PhD @ IIT Mandi)
+8. Dhruv Shah, Course Recommender System (2014-15) (with TCS)
+9. Falak Shah, Road Detection for Intelligent Transport Systems (2014-15) (@ Infocusp)
+10. Lekshmi Ramesh, Low rank and sparse decomposition of compressively sensed matrices: Application to surveillance video processing (2014-15) (PhD from IISc, @ IISc)
+11. Dhruv Gupta, Study of Fuzzy Clustering Algorithms and Enhanced Fuzzy Reasoning - Application to Texture Based Image Segmentation (2015)
 
 
 ## Publications
