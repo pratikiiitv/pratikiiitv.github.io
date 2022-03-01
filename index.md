@@ -1,6 +1,10 @@
-## Research Interests
+## Pratik Shah
+Pratik has worked as JRF and SRF with Naval Science and Technological Laboratory, Vizag on a project titled "Estimation filters for target tracking problems". He received his MTech in ICT and PhD from DAIICT. He has worked as a faculty with department of Electronics and Communication at the LNM Institute of Information Technology for two years. He joined IIIT Vadodara as an Assistant Professor in July 2013. 
 
-Signal Processing, Differential Geometry, AI/ ML
+## Interests
+- Signal Processing, AI/ ML
+- Differential Geometry, Category Theory 
+- Indian Classical Music 
 
 ## Projects
 1. Safe Ship Navigation, ISRO, Department of Space, Government of India (Feb 2022 - Feb 2024)
@@ -9,6 +13,9 @@ Signal Processing, Differential Geometry, AI/ ML
 
 ### Project Openings
 1. Project Associate [Link](www.iiitvadodara.ac.in)
+
+## Continuing Education Program
+1. Music, Mathematics and Machines (To be offered in Summer 2022) [Link](https://docs.google.com/document/d/1YrRtV3XS5JHCwIW72iv9hDL5vbqJ7OOZwMZY8uneukU/edit?usp=sharing)
 
 ## Courses
 1. Artificial Intelligence
