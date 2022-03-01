@@ -1,10 +1,14 @@
 ## Research Interests
 
-Differential Geometry, Signal Processing, AI/ ML
+Signal Processing, Differential Geometry, AI/ ML
 
-### Projects
+## Projects
 1. Safe Ship Navigation, ISRO, Department of Space, Government of India (Feb 2022 - Feb 2024)
-2. Data-driven Weather Forecast using AI/ ML with Indian Metereological Department, Government of India (Sept 2020 - Oct 2021)
+2. Data-driven Weather Forecast using AI/ ML with Indian Metereological Department, Government of India (Oct 2020 - Oct 2021)
+3. HPC laboratory at IIIT Vadodara. The laboratory has GUJCOST sponsored Paramshavak (Sanctioned in 2019 and Commissioned in Jan 2020).
+
+### Project Openings
+1. Project Associate [Link](www.iiitvadodara.ac.in)
 
 ## Courses
 1. Artificial Intelligence
@@ -12,12 +16,21 @@ Differential Geometry, Signal Processing, AI/ ML
 3. Computer Graphics and Multimedia
 4. Introduction to Robotics
 
+## Training Programs/ Workshops
+- Fundamentals of Deep Learning for NVIDIA Deep Learning Institute, as a University Ambassodor (Three workshops since March 2020)
+- ATAL AICTE sponsored FDPs on Data Analytics and Artificial Intelligence (five such FDPs during July 2019 - March 2022)
+- Training programs (at Mumbai and Jamshedpur) on Data Analytics as part of consultancy for TATA Power in 2019.
+
+## Students
+
+
 ## Publications
 - Pratik Shah and Samaresh Chatterji, “On the Curve Reconstruction in Riemannian Manifolds”, Journal of Mathematical Imaging and Vision, 45(1), 55-68, Springer US, 2013 DOI: 10.1007/s10851-012-0344-0
 
 - Prashant Domadia, Pratik Shah and Suman Mitra, "Shadow-Free, Expeditious and Precise Moving Object Separation from Video", International Journal of Image and Graphics, World Scientific Publishing, Vol 18, Issue no. 1, January, 2018, DOI : 10.1142/S0219467818500055
-Jaya Pathak and Pratik Shah, “Markov Logic Network for Metaphor Set Expansion”, International Conference on Agents and Artificial Intelligence, ICAART, 2021
  
+- Jaya Pathak and Pratik Shah, “Markov Logic Network for Metaphor Set Expansion”, International Conference on Agents and Artificial Intelligence, ICAART, 2021
+
 - Akansha Tyagi, Ashish Patel and Pratik Shah, "Text Like Classification of Skeletal Sequences for Human Action Recognition", The fifth Asian Conference on Pattern Recognition, 2019
 
 - Prashant Domadia, Pratik Shah and Suman K Mitra, "Guided Deformation Transfer", 16th ACM SIGGRAPH European Conference on Visual Media Production, 2019
@@ -41,14 +54,3 @@ Jaya Pathak and Pratik Shah, “Markov Logic Network for Metaphor Set Expansion�
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pratikiiitv/pratikiiitv.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
