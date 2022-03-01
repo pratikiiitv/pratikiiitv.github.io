@@ -44,6 +44,7 @@ I received B.E. in ECE (2003) from Gujarat University followed by MTech in ICT (
 **Doctoral**
 1. Ashish Kumar Patel, Distributed Representation for Storage and Learning (2017-cont. IIITV)
 2. Prashant Domadia, Vector Graph Representation for 3D Meshes (Degree Awarded 2021 DAIICT), @ ApparelGenius [Link](https://www.apparelgenius.io/)
+
 **Masters**
 1. Prashant Dhameja, Information Lattice Learning (2021-cont.)
 2. Priya Sharma, Weather Forecast using Deep CNN (2020-21)
