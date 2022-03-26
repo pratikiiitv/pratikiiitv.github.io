@@ -27,7 +27,7 @@ I received B.E. in ECE (2003) from Gujarat University followed by MTech in ICT (
 8. Quantum Probability and Applications in Counting and Decision Making (UG Students)
 
 ## Continuing Education Program
-1. Music, Mathematics and Machines (To be offered in Summer 2022) [Link](https://docs.google.com/document/d/1YrRtV3XS5JHCwIW72iv9hDL5vbqJ7OOZwMZY8uneukU/edit?usp=sharing)
+1. Music, Mathematics and Machines (To be offered in Summer 2022) [Link](https://sites.google.com/iiitvadodara.ac.in/mmm/home)
 
 ## Courses
 1. Artificial Intelligence [Win2021](https://docs.google.com/spreadsheets/d/1WTbiZyvn-2dqTuhYvgw6vKkqq1VsWiimmT4mE-8UIOk/edit?usp=sharing)
