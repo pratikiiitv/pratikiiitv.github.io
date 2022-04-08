@@ -14,7 +14,7 @@ I received B.E. in ECE (2003) from Gujarat University followed by MTech in ICT (
 
 ### Project Openings
 **Paid**
-1. Project Associate - Safe Ship Navigation (Software Development) [Link](https://docs.google.com/document/d/1MrwAk1PJU3xkyYctFKLB_G5z29GzMjSRC8qVOztzxto/edit?usp=sharing)
+1. Project Associate - Safe Ship Navigation (Software Development) [Link](http://iiitvadodara.ac.in/pdf/IIITV_PA2_SSN%20-%20Google_Docs_04042022.pdf)
 
 **Unpaid**
 1. Peer Assessment Platform as an Assessment and Assistive Learning Tool (Back/Front End developers, UG Students)
